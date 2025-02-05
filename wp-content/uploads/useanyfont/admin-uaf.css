@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'helvetica-neue-r';
+					src: url('/Adrian_Gutierrez_Portfolio_Website/wp-content/uploads/useanyfont/1747-Helvetica-Neue-R.woff2') format('woff2'),
+						url('/Adrian_Gutierrez_Portfolio_Website/wp-content/uploads/useanyfont/1747-Helvetica-Neue-R.woff') format('woff');
+						font-weight: 400; font-style: normal; font-display: auto;
+				}
+
+				.helvetica-neue-r{font-family: 'helvetica-neue-r' !important;}
+
+				.et_gf_helvetica-neue-r{background:none !important;font-family:helvetica-neue-r;text-indent:0 !important;font-size:25px;}
+
+		
